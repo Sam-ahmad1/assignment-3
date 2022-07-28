@@ -1,0 +1,10 @@
+.custom-bg {
+    background-color: papayawhip;
+}
+
+@media only screen and (min-width: 992px) {
+    .custom-width {
+        width: 80% !important;
+        margin: 0 auto;
+    }
+}
